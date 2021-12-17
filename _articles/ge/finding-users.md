@@ -1,7 +1,7 @@
 ---
 lang: ge
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: მომხმარებლების პოვნა თქვენი პროექტისთვის 
+description: დაეხმარეთ თქვენს ღია კოდის პროექტს განვითარდეს ბედნიერი მომხმარებლების ხელში მოხვედრით. 
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,76 +10,78 @@ related:
   - building
 ---
 
-## Spreading the word
+## სიტყვის გავრცელება 
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+არ არსებობს წესი, რომელიც ამბობს, რომ თქვენ უნდა შეუწყოთ ხელი ღია კოდის პროექტს, როდესაც იწყებთ. ღია წყაროში მუშაობის მრავალი დამაკმაყოფილებელი მიზეზი არსებობს, რომელსაც საერთო არაფერი აქვს პოპულარობასთან. იმის ნაცვლად, რომ იმედოვნებდეთ, რომ სხვები იპოვიან და გამოიყენებენ თქვენს ღია კოდის პროექტს, თქვენ უნდა გაავრცელოთ სიტყვა თქვენი შრომისმოყვარეობის შესახებ!
 
-## Figure out your message
+## გაარკვიეთ თქვენი შეტყობინება
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+სანამ დაიწყებთ რეალურ მუშაობას თქვენი პროექტის პოპულარიზაციისთვის, უნდა შეძლოთ ახსნათ რას აკეთებს ის და რატომ არის მნიშვნელოვანი. 
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+რით არის თქვენი პროექტი განსხვავებული ან საინტერესო? რატომ შექმენით იგი? ამ კითხვებზე პასუხის გაცემა დაგეხმარებათ თქვენი პროექტის მნიშვნელობის შესახებ.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+დაიმახსოვრე, რომ ადამიანები ჩაერთვებიან როგორც მომხმარებლები და საბოლოოდ ხდებიან კონტრიბუტორები, რადგან თქვენი პროექტი მათ პრობლემას აგვარებს. როდესაც ფიქრობთ თქვენი პროექტის გზავნილსა და ღირებულებაზე, შეეცადეთ ნახოთ ისინი იმ კუთხით, რაც შეიძლება მოისურვონ _მომხმარებლებსა და კონტრიბუტორებს_. 
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+მაგალითისთვის, @robb იყენებს კოდის მაგალითს რათა განმარტო თუ რისთვის არის პროექტი, [Cartography](https://github.com/robb/Cartography), გამოსადეგი:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+უფრო მეტის გასაგებად გადადით Mozilla-ს ["პიროვნებები და გზები-ს"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) სავარჯიშო მომხმარებლის პერსონების განვითარებისთვის.
 
-## Help people find and follow your project
+## დაეხმარეთ ადამიანებს თქვენი პროექტის პოვნაში და თვალყურის დევნებაში 
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  თქვენ იდეალურად გჭირდებათ ერთი "სახლის" URL, რომელიც შეგიძლიათ დააწინაუროთ და მიუთითოთ ხალხი თქვენს პროექტთან დაკავშირებით. თქვენ არ გჭირდებათ ფანტასტიური შაბლონის ან თუნდაც დომენის სახელის გამოყენება, მაგრამ თქვენს პროექტს სჭირდება ფოკუსური წერტილი. 
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["როგორ გავავრცელოთ სიტყვა თქვენი კოდის შესახებ"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+დაეხმარეთ ადამიანებს იპოვონ და დაიმახსოვრონ თქვენი პროექტი, მიუთითეთ ისინი ერთ სახელთა სივრცეზე.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**გქონდეთ  თქვენი სახელი სამუშაოს პოპულარიზაციისთვის.** Twitter-ის გვერდის სახელი, GitHub-ის ლინკი, ან IRC არხი ადვილი გზა მისცეთ ხალხს მიმართულება თქვენს პროექტზე. ეს საშუალებები ასევე აძლევს თქვენი პროექტის მზარდ საზოგადოებას შეკრების ადგილს. 
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides. 
+თუ ჯერ არ გსურთ თქვენი პროექტისთვის საშუალებების შექმნა, გააძლიერეთ თქვენი საკუთარი Twitter ან GitHub სახელი ყველაფერში, რასაც აკეთებთ. თქვენი Twitter ან GitHub სახელის პოპულარიზაცია ხალხს აცნობებს, თუ როგორ დაგიკავშირდეთ ან თვალყური ადევნოთ თქვენს მუშაობას. თუ თქვენ საუბრობთ შეხვედრაზე ან ღონისძიებაზე, დარწმუნდით, რომ თქვენი საკონტაქტო ინფორმაცია შედის თქვენს ბიოში ან სლაიდში. 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  შეცდომა, რომელიც იმ პირველ დღეებში დავუშვი (...) იყო ის რომ არ მქონდა Twitter-ის გვერდი პროექტთან მიმართებაში. Twitter-ი საუკეთესო გზაა განაახლოთ ხალხი ინფორმაციით პროექტის შესახებ, ასევე მუდმივად გაამჟღავნეთ ხალხი რომელიც მონაწილეობს პროექტში.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["Apache Storm-ის ისტორია და მიღებული გაკვეთილები"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**განიხილეთ თქვენი პროექტისთვის ვებსაიტის შექმნა.**ვებსაიტი ხდის თქვენს პროექტს უფრო მეგობრულს და აადვილებს ნავიგაციას, განსაკუთრებით მაშინ, როდესაც ის შერწყმულია მკაფიო დოკუმენტაციასთან და გაკვეთილებთან ერთად. ვებსაიტის არსებობა ასევე მიუთითებს იმაზე, რომ თქვენი პროექტი აქტიურია, რაც თქვენს აუდიტორიას უფრო კომფორტულად აგრძნობინებს მის გამოყენებას. მიეცით მაგალითები, რათა ხალხს იდეები მისცეთ, თუ როგორ გამოიყენონ თქვენი პროექტი.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django-ს თანაშემქნელი, ამბობდა რომ ვებსაიტ _"იყო ერთერთი საუკეთესო რამ რაც ჩვენ გავაკეთეთ Django-ს პროექტის საწყის დღეებში"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+თუ თქვენი პროექტი გაზიარებულია GitHub-ზე, თქვენ შეგიძლიათ გამოიყენოთ [GitHub Page-ი](https://pages.github.com/) რათა ადვილად გააკეთოთ ვებგვერდი. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), და [Middleman](https://middlemanapp.com/) გახლავთ [რამოდენიმე მაგალითი](https://github.com/showcases/github-pages-examples) შესანიშნავი, ყოვლისმომცველი ვებსაიტები.
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![მაწანწალა მთავარი გვერდი](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+ახლა, როდესაც თქვენ გაქვთ მესიჯი თქვენი პროექტისთვის და ხალხისთვის მარტივი გზა თქვენი პროექტის პოვნისთვის იქნება ვებგვერდი!
 
-## Go where your project's audience is (online)
+## წადით იქ სადაც თქვენი პროექტის აუდიტორიაა (ონლაინ)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+ონლაინ გაცნობა შესანიშნავი გზაა ინფორმაციის სწრაფად გასაზიარებლად და გასავრცელებლად. ონლაინ არხების გამოყენებით, თქვენ გაქვთ პოტენციალი მიაღწიოთ ძალიან ფართო აუდიტორიას.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+ისარგებლეთ არსებული ონლაინ თემებითა და პლათფორმებით თქვენი აუდიტორიის მისაღწევად. თუ
+თქვენი ღია კოდის პროექტი პროგრამულ უზრუნველყოფას ეხება შეგიძლიათ მარტივად იპოვოთ აუდიენცია
+შემდეგ პლათფორმებზე [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), ან თუნდაც [Quora](https://www.quora.com/).იპოვეთ არხები, სადაც ფიქრობთ, რომ ხალხი ყველაზე მეტად ისარგებლებს ან აღფრთოვანებული იქნება თქვენი მუშაობით.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  თითოეულ პროგრამას აქვს ძალიან სპეციფიკური ფუნქციები, რომლებსაც იყენებს მომხმარებელთა მხოლოდ მცირე ნაწილია. ნუ გაუგზავნით სპამს რაც შეიძლება მეტ ადამიანს.ამის ნაცვლად, თქვენი ძალისხმევა მიმართეთ თემებს, რომლებიც ისარგებლებენ თქვენი პროექტის შესახებ ცოდნით.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["ღია კოდის პროექტების მარკეტინგი"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+ნახეთ, შეგიძლიათ თუ არა იპოვოთ გზები თქვენი პროექტის გასაზიარებლად შესაბამისი გზებით:
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+* **გაეცანით შესაბამის ღია კოდის პროექტებს და თემებს.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
+* **იპოვეთ ხალხი, რომლებიც განიცდიან პრობლემას, რომლის მოგვარებაც თქვენს პროექტს შეუძლია.** მოძებნეთ დაკავშირებულ ფორუმებში ადამიანები, რომლებიც მოხვდებიან თქვენი პროექტის სამიზნე აუდიტორიაში. უპასუხეთ მათ შეკითხვას და იპოვნეთ ტაქტიანი გზა, საჭიროების შემთხვევაში, რომ შემოგთავაზოთ თქვენი პროექტი, როგორც გამოსავალი.
+* **მოითხოვეთ გამოხმაურება.** წარუდგინეთ საკუთარი თავი და თქვენი ნამუშევარი აუდიტორიას, რომელსაც ის შესაბამისსა და საინტერესო აღმოაჩენს. დააკონკრეტეთ, თუ ვინ ისარგებლებს თქვენი პროექტით. ეცადეთ დაასრულოთ წინადადება: _"ვფიქრობ ჩემი პროექტი დაეხმარება X-ს, რომელიც ცდილობს რომ გააკეთოს Y_". მოუსმინეთ და უპასუხეთ სხვების გამოხმაურებას, ვიდრე უბრალოდ თქვენი მუშაობის პოპულარიზაციას.
 
 Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
 
@@ -151,6 +153,6 @@ There is no overnight solution to building an audience. Gaining the trust and re
   </p>
 </aside>
 
-## Keep at it!
+## შეინარჩუნეთ იგი!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+შეიძლება დიდი დრო დასჭირდეს, სანამ ხალხი შეამჩნევს თქვენს ღია კოდის პროექტს. ეს სავსებით ნორმალურია! დღეს ზოგიერთ ყველაზე პოპულარულ პროექტს წლები დასჭირდა აქტივობის მაღალ დონეზე რომ ყოფილიყოს. ფოკუსირება მოახდინეთ ურთიერთობების დამყარებაზე იმის ნაცვლად, რომ იმედოვნებდეთ, რომ თქვენი პროექტი სპონტანურად მოიპოვებს პოპულარობას. იყავით მომთმენი და გააგრძელეთ თქვენი სამუშაოს გაზიარება მათთან, ვინც მას აფასებს. 
